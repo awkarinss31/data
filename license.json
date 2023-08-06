@@ -5,7 +5,7 @@
       "update_message": "Chenge Log:\n*Add Auto Update",
       "current_version": 1,
       "daemon_path": "drm/farlight",
-      "daemon_url": "https://github.com/awkarinss31/data/raw/main/fm?raw=true",
+      "daemon_url": "https://github.com/awkarinss31/data/blob/main/fm?raw=true",
       "maintance": false
   }
 }
